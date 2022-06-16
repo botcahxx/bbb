@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey '7oLa62wq'
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'YbVOnk4S',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'UvTePA8I',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
